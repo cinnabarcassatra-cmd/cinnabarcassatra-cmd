@@ -31,11 +31,11 @@ THE LELELELE · ONE OF MANY · PROBABLY, shit idk
 
 <br><br>
 
-<a href="#about">Ata</a>
+<a href="https://wumble.atabook.org/">Ata</a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="#transmission">Strawpage</a>
+<a href="https://wumble.straw.page/">Strawpage</a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="#end">Rentry</a>
+<a href="https://rentry.co/wumbwumb">Rentry</a>
 
 </div>
 
