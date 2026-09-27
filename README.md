@@ -1,78 +1,131 @@
-<!--
-EDITING GUIDE
-
-- Replace text inside [BRACKETS].
-- Replace the image path inside src="...".
-- Delete any section you do not need.
-- Add more paragraphs by copying an existing paragraph.
--->
-
 <div id="top"></div>
 
 <div align="center">
 
-<!-- EDIT: Replace with your character image -->
-<img width="994" height="468" alt="image" src="https://github.com/user-attachments/assets/2277a643-952a-49c7-916d-d4857a853b5a" />
+<br>
+
+<img
+  width="994"
+  height="468"
+  alt="Wumble"
+  src="https://github.com/user-attachments/assets/2277a643-952a-49c7-916d-d4857a853b5a"
+/>
 
 <br><br>
 
+<sub>UNVERIFIED ENTITY / FILE 001</sub>
+
+<br><br>
+
+<h1>
+  W U M B L E
+</h1>
+
 <pre>
-[Foot Analyzer]
- [Aura Laundering]  
-[the fucking GOAT]
+FOOT ANALYZER
+AURA LAUNDERER
+UNDISPUTED GOAT
 </pre>
 
-<br>
-
-<h1>[W U M B L E]</h1>
-
-<!-- EDIT: Replace with an alias, setting, or status -->
-<sub>[ALIAS] · [SETTING] · [STATUS]</sub>
+<sub>
+THE LELELELE · ONE OF MANY · PROBABLY, shit idk
+</sub>
 
 <br><br>
 
 <a href="#about">ABOUT</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="#transmission">burps*</a>
+&nbsp;&nbsp;·&nbsp;&nbsp;
+<a href="#end">END FILE</a>
 
 </div>
 
 <br><br>
 
-<table width="78%" align="center" cellpadding="18">
+<table width="84%" align="center" cellpadding="16">
 <tr>
 <td>
 
 <div id="about"></div>
 
-<!-- EDIT: Replace this heading if you want -->
-## ABOUT
+<h2>ABOUT WUMBLE</h2>
 
-<!-- EDIT: Write a short introduction here -->
 <p align="center">
-[Holy fucking shit guys im wumble]
+Holy shit, guys. Wumble is here.
 </p>
 
 <br>
 
-<!-- EDIT: Replace with something the character would say -->
+<table width="100%" cellpadding="8">
+<tr>
+<td width="50%" valign="top">
+
+<pre>
+NAME       WUMBLE
+KNOWN AS   THE LELELELE    
+ROLE       ABSOLUTE UNIT
+STATUS     ACTIVE
+</pre>
+
+</td>
+
+<td width="50%" valign="top">
+
+<pre>
+SKILL      FOOT ANALYSIS
+SPECIALTY  AURA LAUNDERING
+WEAKNESS   [REDACTED]
+MOTIVE     UNKNOWN
+THREAT     UNCONFIRMED
+</pre>
+
+</td>
+</tr>
+</table>
+
+<br>
+
 <blockquote>
-“[I am the Lelelele, i am one of many, may your ass be fat. and your woes be many.]”
+“I am the Lelelele. I am one of many.
+May your ass be fat, and your woes be many.”
 </blockquote>
 
 <br>
 
-<!-- EDIT: Write the character's lore or backstory here -->
 <p>
-[I eat ass]
-</p>
-
-<!-- EDIT: Add or remove paragraphs as needed -->
-<p>
-[I still eat ass]
+Wumble moves through the world with the confidence of something that
+has never once been asked to explain itself.
 </p>
 
 <p>
-[Dude guess what i eat]
+Nobody knows where Wumble came from. Some say there are others.
+Some say Wumble is the original. Wumble refuses to clarify.
 </p>
+
+</td>
+</tr>
+</table>
+
+<br><br>
+
+<table width="84%" align="center" cellpadding="16">
+<tr>
+<td>
+
+<div id="transmission"></div>
+
+<h2>LAST TRANSMISSION</h2>
+
+<pre>
+I eat ass.
+
+I still eat ass.
+
+Dude, guess what I eat.
+
+[ TRANSMISSION ENDS ]
+</pre>
 
 </td>
 </tr>
@@ -82,21 +135,24 @@ EDITING GUIDE
 
 <div align="center">
 
+<div id="end"></div>
+
 <pre>
-────────────────────────────────────
-
-[Then i walk in*]
-
-────────────────────────────────────
+THEN I WALK IN*
 </pre>
 
-<br>
-
-<!-- EDIT: Replace with your name or username -->
-<sub>This is all propaganda i dont eat poopy butt</sub>
+<sub>
+This file is propaganda. Wumble does not eat poopy butt.
+</sub>
 
 <br><br>
 
-<a href="#top">RETURN</a>
+<sub>
+FILE CLOSED · WUMBLE REMAINS AT LARGE
+</sub>
+
+<br><br>
+
+<a href="#top">RETURN TO TOP</a>
 
 </div>
