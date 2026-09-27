@@ -12,25 +12,19 @@ EDITING GUIDE
 <div align="center">
 
 <!-- EDIT: Replace with your character image -->
-<img
-  src="assets/character.png"
-  alt="[CHARACTER NAME]"
-  width="500"
->
+<img width="994" height="468" alt="image" src="https://github.com/user-attachments/assets/2277a643-952a-49c7-916d-d4857a853b5a" />
 
 <br><br>
 
 <pre>
-[ FILE OPEN ]
-
-[ CHARACTER NAME ]
-[ ACCESS: PARTIAL ]
+[Foot Analyzer]
+ [Aura Laundering]  
+[the fucking GOAT]
 </pre>
 
 <br>
 
-<!-- EDIT: Replace with your character's name -->
-<h1>[CHARACTER NAME]</h1>
+<h1>[W U M B L E]</h1>
 
 <!-- EDIT: Replace with an alias, setting, or status -->
 <sub>[ALIAS] · [SETTING] · [STATUS]</sub>
@@ -54,30 +48,30 @@ EDITING GUIDE
 
 <!-- EDIT: Write a short introduction here -->
 <p align="center">
-[SHORT CHARACTER DESCRIPTION.]
+[Holy fucking shit guys im wumble]
 </p>
 
 <br>
 
 <!-- EDIT: Replace with something the character would say -->
 <blockquote>
-“[CHARACTER QUOTE.]”
+“[I am the Lelelele, i am one of many, may your ass be fat. and your woes be many.]”
 </blockquote>
 
 <br>
 
 <!-- EDIT: Write the character's lore or backstory here -->
 <p>
-[CHARACTER LORE OR BACKSTORY.]
+[I eat ass]
 </p>
 
 <!-- EDIT: Add or remove paragraphs as needed -->
 <p>
-[SECOND PARAGRAPH.]
+[I still eat ass]
 </p>
 
 <p>
-[THIRD PARAGRAPH.]
+[Dude guess what i eat]
 </p>
 
 </td>
@@ -91,7 +85,7 @@ EDITING GUIDE
 <pre>
 ────────────────────────────────────
 
-[ CONNECTION INTERRUPTED ]
+[Then i walk in*]
 
 ────────────────────────────────────
 </pre>
@@ -99,7 +93,7 @@ EDITING GUIDE
 <br>
 
 <!-- EDIT: Replace with your name or username -->
-<sub>ORIGINAL CHARACTER · [YOUR NAME]</sub>
+<sub>This is all propaganda i dont eat poopy butt</sub>
 
 <br><br>
 
