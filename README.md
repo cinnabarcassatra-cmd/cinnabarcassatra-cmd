@@ -17,9 +17,7 @@
 
 <br><br>
 
-<h1>
-  W U M B L E
-</h1>
+<h1>W U M B L E</h1>
 
 <pre>
 FOOT ANALYZER
@@ -33,11 +31,11 @@ THE LELELELE · ONE OF MANY · PROBABLY, shit idk
 
 <br><br>
 
-<a href="#about">ABOUT</a>
+<a href="#about">Ata</a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="#transmission">burps*</a>
+<a href="#transmission">Strawpage</a>
 &nbsp;&nbsp;·&nbsp;&nbsp;
-<a href="#end">END FILE</a>
+<a href="#end">Rentry</a>
 
 </div>
 
@@ -45,39 +43,39 @@ THE LELELELE · ONE OF MANY · PROBABLY, shit idk
 
 <table width="84%" align="center" cellpadding="16">
 <tr>
-<td>
+<td align="center">
 
 <div id="about"></div>
 
 <h2>ABOUT WUMBLE</h2>
 
-<p align="center">
+<br>
+
+<p>
 Holy shit, guys. Wumble is here.
 </p>
 
 <br>
 
-<table width="100%" cellpadding="8">
+<table width="72%" align="center" cellpadding="8">
 <tr>
-<td width="50%" valign="top">
+<td width="50%" align="center">
 
 <pre>
 NAME       WUMBLE
-KNOWN AS   THE LELELELE    
+KNOWN AS   THE LELELELE
 ROLE       ABSOLUTE UNIT
-STATUS     ACTIVE
+STATUS     PRESENT
 </pre>
 
 </td>
 
-<td width="50%" valign="top">
+<td width="50%" align="center">
 
 <pre>
 SKILL      FOOT ANALYSIS
-SPECIALTY  AURA LAUNDERING
-WEAKNESS   [REDACTED]
-MOTIVE     UNKNOWN
-THREAT     UNCONFIRMED
+SPECIALTY  AURA LAUNDERING  
+MOTIVE     HARRASSMENT
 </pre>
 
 </td>
@@ -87,11 +85,15 @@ THREAT     UNCONFIRMED
 <br>
 
 <blockquote>
-“I am the Lelelele. I am one of many.
+“I am the Lelelele. I am one of many.<br>
 May your ass be fat, and your woes be many.”
 </blockquote>
 
 <br>
+
+<table width="78%" align="center">
+<tr>
+<td align="center">
 
 <p>
 Wumble moves through the world with the confidence of something that
@@ -107,15 +109,21 @@ Some say Wumble is the original. Wumble refuses to clarify.
 </tr>
 </table>
 
+</td>
+</tr>
+</table>
+
 <br><br>
 
 <table width="84%" align="center" cellpadding="16">
 <tr>
-<td>
+<td align="center">
 
 <div id="transmission"></div>
 
-<h2>LAST TRANSMISSION</h2>
+<h2>Message from the GOAT</h2>
+
+<br>
 
 <pre>
 I eat ass.
@@ -124,7 +132,7 @@ I still eat ass.
 
 Dude, guess what I eat.
 
-[ TRANSMISSION ENDS ]
+[ Then i walk in* ]
 </pre>
 
 </td>
