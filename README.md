@@ -2,115 +2,91 @@
 
 <br>
 
-<font face="Courier New, Lucida Console, monospace" color="#250000">
-
-<span style="color:#d00000">I</span>
-<span style="color:#c00000"> </span>
-<span style="color:#b00000">saw</span>
-<span style="color:#9e0000"> </span>
-<span style="color:#8b0000">something</span>
-<span style="color:#760000"> </span>
-<span style="color:#620000">in</span>
-<span style="color:#500000"> </span>
-<span style="color:#3d0000">the</span>
-<span style="color:#280000"> </span>
-<span style="color:#180000">dark.</span>
-
-</font>
+<img src="assets/static.gif" alt="static" width="100%">
 
 <br><br>
 
-<table width="100%" cellpadding="8">
-<tr>
+<pre>
+S I G N A L   A C Q U I R E D
 
-<td align="right" valign="middle" width="35%">
-
-<font face="Courier New, Lucida Console, monospace">
-
-<span style="color:#d00000">It</span>
-<span style="color:#bd0000"> was</span>
-<span style="color:#a80000"> not</span>
-<span style="color:#920000"> a</span>
-<span style="color:#7c0000"> shadow.</span>
+      something is looking back
+</pre>
 
 <br>
 
-<span style="color:#b00000">It</span>
-<span style="color:#920000"> was</span>
-<span style="color:#760000"> not</span>
-<span style="color:#580000"> a</span>
-<span style="color:#350000"> person.</span>
+<table width="100%" cellpadding="10">
+<tr>
 
-<br><br>
+<td align="right" valign="middle" width="32%">
 
-<span style="color:#a00000">It</span>
-<span style="color:#820000"> had</span>
-<span style="color:#650000"> no</span>
-<span style="color:#480000"> body</span>
-<span style="color:#260000"> at all.</span>
+<pre>
+I did not draw it.
 
-</font>
+I only opened
+the image.
+
+The face was
+already there.
+
+It was waiting.
+</pre>
 
 </td>
 
-<td align="center" valign="middle" width="30%">
+<td align="center" valign="middle" width="12%">
 
-<font face="Courier New, Lucida Console, monospace" color="#d00000">
+<pre>
+───────
+───────
+───────
+───────
+───────
+───────
+</pre>
 
-━━━━━━━ ◉ ━━━━━━━
+</td>
 
-</font>
-
-<br><br>
+<td align="center" valign="middle" width="24%">
 
 <img src="assets/red-face.png"
      alt="red faced creature with red eyes"
-     width="260">
+     width="270">
 
 <br><br>
 
-<font face="Courier New, Lucida Console, monospace">
-
-<span style="color:#d00000">THE</span>
-<span style="color:#a80000"> FACE</span>
-<span style="color:#760000"> IS</span>
-<span style="color:#450000"> STILL</span>
-<span style="color:#1f0000"> HERE</span>
-
-</font>
+<pre>
+DO NOT BLINK
+</pre>
 
 </td>
 
-<td align="left" valign="middle" width="35%">
+<td align="center" valign="middle" width="12%">
 
-<font face="Courier New, Lucida Console, monospace">
+<pre>
+───────
+───────
+───────
+───────
+───────
+───────
+</pre>
 
-<span style="color:#260000">But</span>
-<span style="color:#480000"> then</span>
-<span style="color:#650000"> it</span>
-<span style="color:#820000"> opened</span>
-<span style="color:#a00000"> its</span>
-<span style="color:#d00000"> eyes.</span>
+</td>
 
-<br><br>
+<td align="left" valign="middle" width="32%">
 
-<span style="color:#350000">Red</span>
-<span style="color:#520000"> where</span>
-<span style="color:#760000"> white</span>
-<span style="color:#9e0000"> should</span>
-<span style="color:#c00000"> have</span>
-<span style="color:#d00000"> been.</span>
+<pre>
+But it was not
+an empty image.
 
-<br><br>
+It had a face.
 
-<span style="color:#450000">Black</span>
-<span style="color:#680000"> pupils</span>
-<span style="color:#920000"> looking</span>
-<span style="color:#b00000"> directly</span>
-<span style="color:#d00000"> at</span>
-<span style="color:#e00000"> me.</span>
+The eyes were open.
 
-</font>
+The pupils were
+looking directly
+at me.
+</pre>
 
 </td>
 
@@ -119,59 +95,282 @@
 
 <br>
 
-<font face="Courier New, Lucida Console, monospace">
+<pre>
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-<span style="color:#d00000">I</span>
-<span style="color:#bd0000"> closed</span>
-<span style="color:#a80000"> the</span>
-<span style="color:#920000"> image.</span>
-<span style="color:#760000"> The</span>
-<span style="color:#580000"> face</span>
-<span style="color:#3d0000"> remained.</span>
+THE FACE HAS NO BODY
 
-<br><br>
+THE DARKNESS IS THE BODY
 
-<span style="color:#b00000">I</span>
-<span style="color:#920000"> deleted</span>
-<span style="color:#760000"> the</span>
-<span style="color:#580000"> file.</span>
-<span style="color:#350000"> The</span>
-<span style="color:#1f0000"> eyes</span>
-<span style="color:#100000"> remained.</span>
-
-<br><br>
-
-<span style="color:#d00000">I</span>
-<span style="color:#a80000"> left</span>
-<span style="color:#760000"> the</span>
-<span style="color:#450000"> page.</span>
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+</pre>
 
 <br>
 
-<span style="color:#1f0000">It</span>
-<span style="color:#450000"> followed</span>
-<span style="color:#760000"> me</span>
-<span style="color:#a80000"> here.</span>
+<table width="90%" cellpadding="8">
+<tr>
 
-</font>
+<td align="right" width="44%">
+<a href="#about">[ WHAT IS IT? ]</a>
+</td>
+
+<td align="center" width="12%">
+<pre>◉</pre>
+</td>
+
+<td align="left" width="44%">
+<a href="#sightings">[ WHERE WAS IT SEEN? ]</a>
+</td>
+
+</tr>
+
+<tr>
+
+<td align="right">
+<a href="#observations">[ WHAT DOES IT DO? ]</a>
+</td>
+
+<td align="center">
+<pre>│</pre>
+</td>
+
+<td align="left">
+<a href="#warnings">[ DO NOT LOOK AWAY ]</a>
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<pre>
+[ SIGNAL LOST ]
+[ SIGNAL RETURNED ]
+[ SIGNAL IS COMING FROM INSIDE THE PAGE ]
+</pre>
+
+</div>
 
 <br><br>
 
-<font face="Courier New, Lucida Console, monospace" color="#350000">
+<div align="center" id="about">
 
-━━━━━━━ ◉ ━━━━━━━
-
-<br>
-
-<span style="color:#d00000">DO</span>
-<span style="color:#a80000"> NOT</span>
-<span style="color:#760000"> LOOK</span>
-<span style="color:#450000"> AWAY</span>
+<details>
+<summary>[ WHAT IS IT? ]</summary>
 
 <br>
 
-━━━━━━━ ◉ ━━━━━━━
+<table width="80%">
+<tr>
+<td align="center">
 
-</font>
+<pre>
+It has no visible body.
+
+It has a red face,
+red eye sclera,
+and black pupils.
+
+Everything else is black.
+
+Nobody knows where
+the face ends.
+
+Nobody knows what
+is behind it.
+
+The longer you look,
+the less certain you become
+that it is looking at you.
+</pre>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+</details>
+
+</div>
+
+<br><br>
+
+<div align="center" id="sightings">
+
+<details>
+<summary>[ WHERE WAS IT SEEN? ]</summary>
+
+<br>
+
+<table width="86%" cellpadding="10">
+<tr>
+<td align="right" width="45%">
+
+<pre>
+FIRST SIGHTING
+</pre>
+
+</td>
+
+<td align="center" width="10%">
+<pre>◉</pre>
+</td>
+
+<td align="left" width="45%">
+
+<pre>
+inside an unfinished image
+</pre>
+
+</td>
+</tr>
+
+<tr>
+<td align="right">
+
+<pre>
+SECOND SIGHTING
+</pre>
+
+</td>
+
+<td align="center">
+<pre>◉</pre>
+</td>
+
+<td align="left">
+
+<pre>
+behind the screen static
+</pre>
+
+</td>
+</tr>
+
+<tr>
+<td align="right">
+
+<pre>
+CURRENT SIGHTING
+</pre>
+
+</td>
+
+<td align="center">
+<pre>◉</pre>
+</td>
+
+<td align="left">
+
+<pre>
+this page
+</pre>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<pre>
+The last location was never recorded.
+
+</pre>
+
+</details>
+
+</div>
+
+<br><br>
+
+<div align="center" id="observations">
+
+<details>
+<summary>[ WHAT DOES IT DO? ]</summary>
+
+<br>
+
+<pre>
+It waits.
+
+It watches.
+
+It appears farther away
+in every image,
+
+but closer every time
+you return.
+
+The face never changes.
+
+The pupils never reflect light.
+
+The only confirmed movement
+is the movement of the eyes.
+</pre>
+
+<br>
+
+</details>
+
+</div>
+
+<br><br>
+
+<div align="center" id="warnings">
+
+<details>
+<summary>[ DO NOT LOOK AWAY ]</summary>
+
+<br>
+
+<table width="80%">
+<tr>
+<td align="center">
+
+<pre>
+DO NOT INCREASE THE BRIGHTNESS.
+
+DO NOT ZOOM IN.
+
+DO NOT LOOK INTO THE PUPILS.
+
+DO NOT CHECK THE CORNERS
+OF THE ROOM.
+
+If the face disappears,
+
+it has not left.
+
+It is only standing somewhere
+you cannot see.
+</pre>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+</details>
+
+</div>
+
+<br><br>
+
+<div align="center">
+
+<img src="assets/blood-divider.png" alt="divider" width="600">
+
+<br><br>
+
+<pre>
+THANK YOU FOR LOOKING.
+
+IT LIKES BEING SEEN.
+
+[ THE FACE IS STILL HERE ]
+</pre>
 
 </div>
